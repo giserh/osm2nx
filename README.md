@@ -2,7 +2,7 @@
 Python Script to Read OpenStreetMap XML into a NetworkX Graph and rtree Index
 
 
-###Credits:
+### Credits:
 This script is based upon this [Gist](https://gist.github.com/rajanski/ccf65d4f5106c2cdc70e) by GitHub user rajanski 
 
 ...which is a modification of this [Gist](https://gist.github.com/aflaxman/287370) by GitHub user aflaxman
